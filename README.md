@@ -39,5 +39,3 @@ Typically at http://localhost:3000/
 
 ## Video Walkthrough
 
-
-https://www.loom.com/share/09fa5148b7d9494f96048e1d2512fa76
